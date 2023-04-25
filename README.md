@@ -1,5 +1,5 @@
 # My-hello-worlds
-Hello, World! in my programming languages.
+Hello, World! in my programming languages. (This also showcases extra features, and not always hello world.)
 
 This is only in the ones I made, and also some proposed syntaxes. I'm actually going to make compilers or interpreters for all of these eventually.
 
